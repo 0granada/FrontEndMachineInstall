@@ -52,7 +52,7 @@ installvscode(){
   if [ "`python -c "print str('$name' in '$res'.lower()).lower()"`" == "true" ]; then
     echo "Installing $name"
     wget -c https://go.microsoft.com/fwlink/?LinkID=620882 -O /tmp/vscode.zip
-    unzip -n /tmp/vscode -d $HOME/Applications
+    osascript -e "do shell script \"unzip -n /tmp/vscode -d /Applications\" with administrator privileges"
   else
     echo "Avoid $name installation"
   fi
