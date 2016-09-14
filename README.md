@@ -1,6 +1,6 @@
 # FrontEndMachineInstall
 
-Execute under an responsible adult supervision.
+Execute under a responsible adult supervision.
 
 ## Content
 This installer file contains:
@@ -23,3 +23,5 @@ This installer file contains:
 * Skype
 * Slack
 * Visual Studio Code
+* Atom
+* Brackets
