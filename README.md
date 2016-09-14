@@ -2,6 +2,13 @@
 
 Execute under a responsible adult supervision.
 
+## How to use
+
+Run in your terminal:
+```bash
+curl -sL http://git.io/via91 | bash
+```
+
 ## Content
 This installer file contains:
 * Xcode base
