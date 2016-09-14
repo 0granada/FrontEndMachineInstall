@@ -14,6 +14,8 @@ brew install zsh
 
 # User Applications
 brew cask install iterm2
+brew cask install atom
+brew cask install brackets
 brew cask install slack
 brew cask install google-chrome
 brew cask install firefox
