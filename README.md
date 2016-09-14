@@ -24,6 +24,7 @@ This installer file contains:
 * python virtualenvwrapper
 * Java JDK 8.06
 * iterm2
+* Libre Office
 * Google Chrome
 * Opera
 * Firefox
