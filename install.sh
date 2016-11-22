@@ -19,7 +19,7 @@ brew cask install google-chrome
 brew cask install firefox
 brew cask install opera
 brew cask install skype
-brew cask install libreoffice
+# brew cask install libreoffice
 
 # Ruby Version Manager
 curl -sSL https://rvm.io/mpapis.asc | gpg2 --import -
